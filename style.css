@@ -1,0 +1,301 @@
+.header{
+position: absolute;
+width: 100%;
+height: 140px;
+left: 0px;
+top: 0px;
+background: #005C26;
+}
+
+.logoh{
+position: absolute;
+width: 104px;
+height: 71px;
+left: 55px;
+top: 39px;
+}
+
+.wlc{position: absolute;
+width: fit-content;
+height: 72px;
+left: 1000px;
+top: 39px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #FFFFFF;}
+
+.bodyb{background: url("img/img1.png"); 
+position:absolute;
+width: 100%;;
+height: 900px;
+left: 0px;
+right: 0px;
+top: 140px;
+}
+
+.bodyy{
+position: absolute;
+width: 947px;
+height: 182px;
+left: 121px;
+top: 400px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 84px;
+color: #FFFFFF;}
+
+.bodyy1{
+position: absolute;
+width: 947px;
+left: 121px;
+top: 630px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+color: #FFFFFF;}
+
+.icon{position: absolute;
+width: 1150px;
+height: 220px;
+left: 201px;
+top: 978px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: #FFFFFF;
+border-radius: 25px;
+border: solid white;
+}
+
+.icon1{
+position: absolute;
+width: 216px;
+height: 124px;
+left: 50px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;
+}
+
+.management{position: absolute;
+width: 216px;
+height: 124px;
+left: 330px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+
+.Operations{position: absolute;
+width: 216px;
+height: 124px;
+left: 610px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+
+.Resource{position: absolute;
+width: 216px;
+height: 124px;
+left: 890px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+
+
+.icon2{position: absolute;
+width: 1150px;
+height: 220px;
+left: 201px;
+top: 1250px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: #FFFFFF;
+border-radius: 25px;
+border: solid white;
+}
+                
+.Marketing{
+position: absolute;
+width: 216px;
+height: 124px;
+left: 50px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;
+}
+                
+.Sales{position: absolute;
+width: 216px;
+height: 124px;
+left: 330px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+                
+.IT{position: absolute;
+width: 216px;
+height: 124px;
+left: 610px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+                
+.Media{position: absolute;
+width: 216px;
+height: 124px;
+left: 890px;
+top: 30px;
+background: #005C26;
+border-radius: 20px;
+align-content: center;
+background-image: url("img/icon.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;}
+
+.Term{position: absolute;
+width: 125px;
+height: 41px;
+left: 450px;
+top: 1638px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: rgba(40, 47, 57, 0.8);
+float: right;
+}
+
+.Privacy{
+position: absolute;
+width: 125px;
+height: 41px;
+left: 610px;
+top: 1638px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: rgba(40, 47, 57, 0.8);
+float: right;
+}
+
+.Cookie{
+position: absolute;
+width: 125px;
+height: 41px;
+left: 760px;
+top: 1638px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: rgba(40, 47, 57, 0.8);
+float: right;
+}
+
+.Copyrights{
+position: absolute;
+width: 170px;
+height: 41px;
+left: 916px;
+top: 1638px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: rgba(40, 47, 57, 0.8);
+float: right;
+}
+    
+.Contact{
+position: absolute;
+width: 125px;
+height: 41px;
+left: 1100px;
+top: 1638px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 30px;
+color: rgba(1, 1, 1, 0.8);
+float: right;
+}
